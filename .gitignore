@@ -3,11 +3,11 @@
 
 # Log file
 *.log
-add .classpath
-.bin/ 
-.project
-.settings/
 
+.settings/
+.bin/
+.classpath
+.project
 # BlueJ files
 *.ctxt
 
